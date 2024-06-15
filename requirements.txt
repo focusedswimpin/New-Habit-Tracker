@@ -1,0 +1,12 @@
+blinker
+certifi
+click
+dnspython
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+pymongo[srv]
+Werkzeug
+python-dotenv
+gunicorn
